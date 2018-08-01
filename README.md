@@ -10,7 +10,7 @@ sudo apt-get update
 get all dependencies
 sudo apt-get install -y build-essential python-dev gcc g++ git cmake librocksdb-dev libboost-all-dev
 
-2. Get the coin
+2. Clone the source
 
 git clone https://github.com/coinlegacycore/coinlegacy.git coinlegacy
 
