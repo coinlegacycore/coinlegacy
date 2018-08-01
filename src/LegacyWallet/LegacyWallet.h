@@ -1,4 +1,5 @@
 /*
+Copyright (c) 2018, The TurtleCoin Developers
 Copyright (C) 2018, The Coinlegacy developers
 
 This program is free software: you can redistribute it and/or modify
