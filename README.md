@@ -1,7 +1,7 @@
-# coinlegacy
+# Coinlegacy
 
 
-Compile on Linux Ubuntu 16
+# Compile on Linux Ubuntu 16
 1. Install dependencies
 
 run an update
@@ -47,7 +47,8 @@ make -j4
 
 Your executables will be located in build/src folder.
 
-Compile on Linux Ubuntu 14
+# Compile on Linux Ubuntu 14
+
 1. Install dependencies
 
 run an update
@@ -99,7 +100,8 @@ export CXXFLAGS="-std=gnu++11"
 Make/Build
 make
 
-Compile on Windows
+# Compile on Windows
+
 1. Environment
 
 Visual Studio 2017 Community Edition with desktop development with C++ and the VC++ v140 toolchain features selected
@@ -125,5 +127,5 @@ MSBuild Coinlegacy.sln /p:Configuration=Release /m
 
 Your binaries will be located in ..\build\src\Release folder.
 
-Credits
+# Credits
 Cryptonote Developers, Bytecoin Developers, Monero Developers, Forknote Project, TurtleCoin Developers
