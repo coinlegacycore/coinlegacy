@@ -69,7 +69,7 @@ make all
 
 cd
 
-git clone https://github.com/coinlegacycore/coinlegacy.git coinlegacy
+```git clone https://github.com/coinlegacycore/coinlegacy.git coinlegacy```
 
 4. CHMOD
 
