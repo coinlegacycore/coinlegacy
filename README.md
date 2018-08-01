@@ -42,9 +42,9 @@ Export flags
 
 Make/Build
 
-make
+`make
 or 
-make -j4
+make -j4`
 
 Your executables will be located in build/src folder.
 
