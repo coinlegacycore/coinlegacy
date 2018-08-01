@@ -8,11 +8,11 @@ run an update
 sudo apt-get update
 
 get all dependencies
-sudo apt-get install -y build-essential python-dev gcc g++ git cmake librocksdb-dev libboost-all-dev
+`sudo apt-get install -y build-essential python-dev gcc g++ git cmake librocksdb-dev libboost-all-dev`
 
 2. Clone the source
 
-git clone https://github.com/coinlegacycore/coinlegacy.git coinlegacy
+`git clone https://github.com/coinlegacycore/coinlegacy.git coinlegacy`
 
 3. CHMOD
 
@@ -38,7 +38,7 @@ mkdir build && cd build
 cmake ..
 
 Export flags
-export CXXFLAGS="-std=gnu++11"
+`export CXXFLAGS="-std=gnu++11"`
 
 Make/Build
 make
@@ -55,11 +55,11 @@ run an update
 sudo apt-get update
 
 get all dependencies
-sudo apt-get install -y build-essential python-dev git cmake libboost1.55-all-dev libgflags-dev libsnappy-dev zlib1g-dev libbz2-dev libgflags-dev libgflags2 gcc-4.8 g++-4.8
+`sudo apt-get install -y build-essential python-dev git cmake libboost1.55-all-dev libgflags-dev libsnappy-dev zlib1g-dev libbz2-dev libgflags-dev libgflags2 gcc-4.8 g++-4.8`
 
 2. Install RocksDB database
 
-git clone https://github.com/facebook/rocksdb.git
+`git clone https://github.com/facebook/rocksdb.git`
 
 cd rocksdb
 
@@ -69,7 +69,7 @@ make all
 
 cd
 
-```git clone https://github.com/coinlegacycore/coinlegacy.git coinlegacy```
+`git clone https://github.com/coinlegacycore/coinlegacy.git coinlegacy`
 
 4. CHMOD
 
@@ -95,7 +95,7 @@ mkdir build && cd build
 cmake ..
 
 Export flags
-export CXXFLAGS="-std=gnu++11"
+`export CXXFLAGS="-std=gnu++11"`
 
 Make/Build
 make
